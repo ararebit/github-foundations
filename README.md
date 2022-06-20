@@ -1,4 +1,4 @@
-# My Project
+# My Project, Redux
 
 **Module content**: [Introduction to GitHub](https://github.com/learn-static/foundations-github/blob/main/intro-github.md)
 
